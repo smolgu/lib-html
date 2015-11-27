@@ -1,0 +1,56 @@
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/html "access 1 hour"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType text/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 1 month"
+</IfModule>
+#Gzip
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript
+</ifmodule>
+#End Gzip
+
+RewriteEngine on
+RewriteRule  ^(account.*)$  http://lib.smlgu.ru/$1  [P,L]
+
+Redirect 301 /ctlgSourse.htm /pages/elektronnii-katalog/
+Redirect 301 /lblel.html /pages/resursi-biblioteki/
+Redirect 301 /presSourse.html /pages/prezentations/
+Redirect 301 /histLblSourse.htm /pages/istoriya-biblioteki/
+Redirect 301 /histSourse.htm /pages/sovremennoe-sostoyanie/
+Redirect 301 /time.html /pages/regim-raboti/
+Redirect 301 /priceSourse.html /pages/platnie-uslugi/
+Redirect 301 /fotoSourse.html /pages/photos/
+Redirect 301 /contSourse.htm /pages/kontakti/
+Redirect 301 /newSite.html /pages/obnovleniya/
+Redirect 301 /index-old.html /pages/archive/
+Redirect 301 /instrSourse.html /pages/pravila-polzovaniya-bibliotekoi/
+Redirect 301 /bkSourse.htm /pages/knigoobespechennost/
+Redirect 301 /nbook.html /pages/prezentaciya-knigi/
+Redirect 301 /lector.html /pages/lectorii/
+Redirect 301 /pageLit.html /pages/calendar/
+Redirect 301 /Ruslan.html /pages/ruslan/
+Redirect 301 /time.html /pages/regim-raboti/
+Redirect 301 /strSourse.htm /pages/structura/
+Redirect 301 /podrSourse_f.htm /pages/rabotniki/
+Redirect 301 /podrSourse_t.htm /pages/rabotniki/
+Redirect 301 /podrSourse_s.htm /pages/rabotniki/
+Redirect 301 /unknown.html /404.html
+Redirect 301 /elctlgin.html /pages/vnutrennie-resursy/
+Redirect 301 /doclbl.htm /pages/documents/
+Redirect 301 /teamPrev.html /pages/tematicheskie-obzory/
+
+Redirect 301 /missionLib.html /pages/sovremennoe-sostoyanie/
+Redirect 301 /newEvents.html /pages/obnovleniya/
+
+#26.06
+Redirect 301 /newbook/ /pages/novie-postupleniya/
+Redirect 301 /newbook.html /pages/novie-postupleniya/

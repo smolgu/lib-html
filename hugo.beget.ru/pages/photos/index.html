@@ -1,0 +1,9 @@
+hide:1
+title: Библиотека СмолГУ: Фотогалерея
+----
+{{range .Site.Pages.Children "pages/photos"}}
+<h2>{{.Title}}</h2>
+<a href="{{.Rel .Url}}"><img src="{{.Other.Image}}" width="100%" alt=""></a>
+<a href="{{.Rel .Url}}">Подробнее</a>
+<hr>
+{{end}}

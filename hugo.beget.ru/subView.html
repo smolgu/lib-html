@@ -1,0 +1,122 @@
+﻿<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('#menu li:even').addClass('even');
+	$('#menu li:odd').addClass('odd');
+	$('#menu li:even:last').addClass('last');
+	
+	$('#menu li:even').click( function() {
+		$('#menu li:even').toggle(500);
+		$(this).toggle(500);
+		$(this).next().slideToggle();
+	} );
+});
+</script>
+	<style type="text/css">
+		A {
+		text-decoration: none;
+		}
+		A:hover { 
+		text-decoration: underline; 
+		color: white; 
+		} 
+  	</style>
+	
+<style type="text/css">
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font: 85%/155% Georgia, "Times New Roman", Times, serif;
+	color: #333333;
+	width: 450px;
+	margin: 20px auto;
+}
+
+#menu {
+	width: 450px;
+	border: 1px solid #FAB2C1;
+}
+
+#menu li {
+	list-style-type: none;
+	border-bottom: 1px solid #FAB2C1;
+}
+
+#menu li.odd {
+	font-size: 90%;
+	padding: 2px 8px;
+}
+
+#menu a {
+	display: block;
+	width: 400px;
+	color: #800F25;
+	text-decoration: none;
+	padding: 2px 8px;
+}
+
+#menu li.even {
+	background-color: #ffffc0;<!-- ФОН -->
+}
+
+#menu li.odd {
+	background-color: #0;
+	display: none;<!-- ОТКРЫТЫЙ СПИСОК -->
+}
+
+#menu li.odd a {
+	color: black;
+}
+
+#menu li.last {
+	border-bottom: none;
+}
+
+p {
+	padding-bottom: 20px;
+}
+</style>
+
+</head>
+<body>
+
+
+
+<ul id="menu" align = "center">
+
+<li><a href="#">Юридические науки</a></li>  
+	<li align = "center">
+		<a href="kh_Smol7.html" target="_blank"><img src = "images_7/gallary0.jpg"></a> 
+	</li> 
+	
+<li><a href="#">Психология</a></li>  
+	<li align = "center">
+		<a href="kh_Smol4.html" target="_blank"><img src = "sk2/gallary0.jpg"></a> 
+	</li> 
+	
+<li><a href="#">Книги по языкознанию</a></li>  
+	<li align = "center">
+		<a href="kh_Smol3.html" target="_blank"><img src = "sk3/gallary0.jpg"></a> 
+	</li> 	
+	
+<li><a href="#">Краеведение</a></li>  
+	<li align = "center">
+		<a href="kh_Smol2.html" target="_blank"><img src = "sk/scr_1p.jpg"></a> 
+	</li> 	
+	
+</ul>
+
+
+  <p><br><font size=1>*Нажмите на элемент для вывода дополнительной информации. Еще раз для возврата назад.</font></p>
+
+</body>
+</html>
+
+
+
+ 

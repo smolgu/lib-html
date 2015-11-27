@@ -1,0 +1,1 @@
+gostatic -w config

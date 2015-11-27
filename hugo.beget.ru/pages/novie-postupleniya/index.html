@@ -1,0 +1,8 @@
+title: Новые поступления
+hide:1
+----
+<h1>Новые поступления в библиотеку СмолГУ</h1>
+<ul class="log">
+{{range .Site.Pages.Children "pages/novie-postupleniya"}}
+<li><small>{{.Date.Format "01/2006"}}</small><br><a href="{{.Rel .Url}}">{{if .Other.Description}}{{.Other.Description}}{{else}}{{.Title}}{{end}}</a>{{end}}
+</ul>

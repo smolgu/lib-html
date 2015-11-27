@@ -1,0 +1,246 @@
+﻿<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript">
+$(function() {
+	$('#menu li:even').addClass('even');
+	$('#menu li:odd').addClass('odd');
+	$('#menu li:even:last').addClass('last');
+	
+	$('#menu li:even').click( function() {
+		$('#menu li:even').toggle(500);
+		$(this).toggle(500);
+		$(this).next().slideToggle();
+	} );
+});
+</script>
+	<style type="text/css">
+		A {
+		text-decoration: none;
+		}
+		A:hover { 
+		text-decoration: underline; 
+		color: white; 
+		} 
+  	</style>
+	
+<style type="text/css">
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font: 85%/155% Georgia, "Times New Roman", Times, serif;
+	color: #333333;
+	width: 450px;
+	margin: 20px auto;
+}
+
+#menu {
+	width: 450px;
+	border: 1px solid #FAB2C1;
+}
+
+#menu li {
+	list-style-type: none;
+	border-bottom: 1px solid #FAB2C1;
+}
+
+#menu li.odd {
+	font-size: 90%;
+	padding: 2px 8px;
+}
+
+#menu a {
+	display: block;
+	width: 400px;
+	color: #800F25;
+	text-decoration: none;
+	padding: 2px 8px;
+}
+
+#menu li.even {
+	background-color: #ffffc0;<!-- ФОН -->
+}
+
+#menu li.odd {
+	background-color: #0;
+	display: none;<!-- ОТКРЫТЫЙ СПИСОК -->
+}
+
+#menu li.odd a {
+	color: black;
+}
+
+#menu li.last {
+	border-bottom: none;
+}
+
+p {
+	padding-bottom: 20px;
+}
+</style>
+
+</head>
+<body>
+
+
+
+<ul id="menu">
+<li><a href="#">Гранты</a></li>  
+
+<li>
+ <a href="http://www.rfbr.ru/rffi/ru/contest/n_499" target="_blank">• Российский фонд фундаментальных исследований (РФФИ)</a>
+ <a href="http://www.rfh.ru/" target="_blank">• Российский гуманитарный научный фонд (РГНФ)  </a>
+ <a href="http://www.extech.ru/" target="_blank">• Совет по грантам Президента РФ для поддержки молодых российских ученых и ведущих научных школ РФ</a>
+ <a href="http://www.osi.ru/reconstruction.nsf" target="_blank">• Институт «Открытое общество» (фонд Сороса)  </a>
+</li> 
+
+<li><a href="#">История</a></li>  
+ <li>
+ <a href="http://www.runivers.ru/" target="_blank">• Электронная энциклопедия и библиотека Руниверс</a> 
+ <a href="http://www.istrodina.com/" target="_blank">• Журнал Родина</a>
+ <a href="http://www.world-history.ru/" target="_blank">• Всемирная история  </a>
+ <a href="http://www.hrono.ru/" target="_blank">• Русская и всемирная история </a>
+ <a href="http://www.hist.msu.ru/ER/" target="_blank">• Исторический факультет МГУ  </a>
+ <a href="http://www.magister.msk.ru/library/history/" target="_blank">• Материалы по русской истории  </a>
+ <!-- <a href="http://www.history.atomlink.ru/" target="_blank">• История России  </a> -->
+ <a href="http://www.history-illustrated.ru/" target="_blank">• Исторический журнал  </a>
+ <a href="http://www.rkka.ru/" target="_blank">• Рабоче-крестьянская красная армия   </a> 
+ 
+ </li> 
+ 
+<li><a href="#">Культура</a></li>  
+ <li>
+ <a href="http://www.artvek.ru/" target="_blank">• Галерея живописи и декоративно-прикладного искусства, литература  </a>
+ <a href="http://countries.ru/library/" target="_blank">• Культурология: теория, школы, история, практика   </a>
+ <a href="http://www.slova.ru/" target="_blank">• Словарь Даля  </a>
+ <a href="http://www.gramota.ru/" target="_blank">• Русский язык  </a>
+ <a href="http://www.izoselfportrait.narod.ru/" target="_blank">• Автопортрет в мировой живописи  </a>
+ <a href="http://www.jevopis.narod.ru/" target="_blank">• Шедевры живописи  </a>
+ <a href="http://www.impressionnisme.narod.ru/" target="_blank">• Имперессионизм в сети  </a>
+ <a href="http://www.florencia.narod.ru/" target="_blank">• Флоренция и Венеция  </a>
+ </li> 
+ 
+<li><a href="#">Медицина и естественные науки</a></li>  
+<li>
+ <a href="http://lib.rudn.ru/" target="_blank">• Научная библиотека РУДН  </a>
+ <a href="http://elibrary.ru/" target="_blank">• Научная электронная библиотека eLIBRARY  </a>  
+</li> 
+ 
+<li><a href="#">Наука и образование</a></li> 
+<li> 
+ <a href="http://www.edu.ru/" target="_blank">• Российское образование: Федеральный портал  </a>
+ <a href="http://www.elementy.ru/" target="_blank">• Элементы большой науки (в т.ч. биографии ученых)  </a>
+ <a href="http://www.vivosvoco.ru/" target="_blank">• Образовательный портал   </a>
+ <a href="http://www.aspirantura.spb.ru/" target="_blank">• Аспирантура: Портал для аспирантов   </a>
+ <a href="http://www.lanit-consulting.ru/" target="_blank">• Стандарты   </a>
+ <a href="http://www.poisknews.ru/" target="_blank">• Газета Поиск  </a>
+</li> 
+
+<li><a href="#">Организации, научные и образовательные порталы</a></li> 
+<li>
+ <a href="http://www.ras.ru/" target="_blank">• Российская академия наук (РАН)</a>
+ <a href="http://www.mcramn.ru/ramn.aspx" target="_blank">• Российская академия медицинских наук (РАМН)      </a>
+ <a href="http://www.minzdravsoc.ru/" target="_blank">• Министерство здравоохранения и социального развития  </a>
+ <a href="http://www.ed.gov.ru/" target="_blank">• Министерство образования и науки РФ   </a>
+ <a href="http://vak.ed.gov.ru/" target="_blank">• Высшая аттестационная комиссия РФ  </a>
+ <a href="http://rsr-online.ru/index.php" target="_blank">• Союз ректоров России  </a>
+ <a href="http://www2.viniti.ru/" target="_blank">• Всероссийский институт научной и технической информации (ВИНИТИ)  </a>
+ <a href="http://www.rupto.ru/" target="_blank">• Российское агентство по патентам и товарным знакам (Роспатент)  </a>
+ <a href="http://www.edu.ru/" target="_blank">• Российское образование. Федеральный портал  </a>
+ <a href="http://www.rsci.ru/" target="_blank">• Научный портал «Наука и инновации»  </a>
+ <a href="http://www.informika.ru/" target="_blank">• ГосНИИ информационных технологий и телекоммуникаций  </a>
+ <a href=" http://www.poisknews.ru/" target="_blank">• Поиск - еженедельная газета научного сообщества  </a>
+ <a href="http://window.edu.ru" target="_blank">• ЕДИНОЕ ОКНО доступа  к образовательным ресурсам</a>
+</li> 
+
+<li><a href="#">Персоналии</a></li> 
+<li>
+ <a href="http://www.biografia.ru/" target="_blank">• Биографии, цитаты, пословицы, творчество народов СССР  </a>
+ <a href="http://www.peoples.ru/" target="_blank">• Люди (биографии)  </a>
+ <a href="http://rulex.ru/" target="_blank">• Биографический словарь  </a>
+ <a href="http://n-t.ru/nl/" target="_blank">• Нобелевские лауреаты  </a>
+</li> 
+ 
+<li><a href="#">Полезные ссылки для аспирантов</a></li> 
+<li>
+ <a href="http://aspirant.istu.ru/" target="_blank">• Институт соискателя ученой степени и ученого звания  </a>
+ <a href="http://dis.finansy.ru/" target="_blank">• Диссертация – написание, оформление, защита  </a>
+ <a href="http://marketnotes.ru/management/good_dokla/" target="_blank">• Как подготовить и представить хороший доклад на конференцию  </a>
+ <a href="http://vak.ed.gov.ru/" target="_blank">• Высшая аттестационная комиссия РФ  </a>
+ <a href="http://elibrary.ru/defaultx.asp" target="_blank">• Научная электронная библиотека eLIBRARY</a>
+
+</li>  
+
+<li><a href="#">Право</a></li>  
+<li>
+ <a href="http://www.law.edu.ru/" target="_blank">• Юридическая Россия  </a>
+ <a href="http://civil.consultant.ru/" target="_blank">• Классика российского права  </a>
+</li> 
+ 
+<li><a href="#">Психология</a></li>  
+<li>
+ <a href="http://www.psycho.all.ru/" target="_blank">• Практическая психология</a>
+ <a href="Психологический словарь  	http://www.psi.webzone.ru/" target="_blank">• Психологический словарь  </a>
+ <a href="http://www.psychology.ru/" target="_blank">• Психология на русском языке  </a>
+</li>  
+
+<li><a href="#">Социология</a></li>  
+<li>
+ <a href="http://www.socio.rin.ru/" target="_blank">• Социология на Rin.ru  </a>
+ <a href="http://www.koob.ru/" target="_blank">• Социальная психология  </a>
+</li>   
+
+<li><a href="#">Универсальные словари и энциклопедии</a></li>  
+<li>
+ <a href="http://slovari.yandex.ru/" target="_blank">• Яндекс Словари           </a>
+ <a href="http://www.edic.ru/" target="_blank">• Электронные словари              </a>
+ <a href="http://dic.academic.ru/" target="_blank">• Академик (словари и энциклопедии)           </a>
+ <a href="http://www.km.ru/" target="_blank">• Кирилл и Мефодий              </a>
+ <a href="http://www.krugosvet.ru/" target="_blank">• Онлайн Энциклопедия Кругосвет             </a>
+ <a href="http://www.glossary.ru/index.htm" target="_blank">• Glossary Commander (служба тематических толковых словарей)  </a>
+ <a href="http://ru.wikipedia.org/wiki/" target="_blank">• Википедия (свободная энциклопедия)   </a>
+</li> 
+
+<li><a href="#">Философия</a></li>  
+<li>
+ <a href="http://philosophy.allru.net/pervo.html" target="_blank">• Золотая философия  </a>
+ <a href="http://www.filosof.historic.ru/books/item/f00/s00/z0000450/" target="_blank">• Цифровая библиотека по философии</a>
+
+</li> 
+
+<li><a href="#">Художественная литература</a></li>  
+<li>
+ <a href="http://www.e-kniga.ru" target="_blank">• ЭБ художественной литературы</a>
+ <a href="http://www.electroniclibrary21.ru/" target="_blank">• Электронная библиотека 21 века</a>
+ <a href="http://bookz.ru/" target="_blank">• Электронная библиотека</a>
+ <a href="http://www.modernlib.ru/" target="_blank">• Бесплатная художественная литература 1</a>
+ <a href="http://bookz.ru/" target="_blank">• Бесплатная художественная литература 2</a>
+ 
+ 
+</li> 
+
+<li><a href="#">Экология</a></li>  
+<li>
+ <a href="http://www.mbty.ru/BIBLIO/default.asp" target="_blank">• Кафедра экологии и пром. безопасности МГТУ
+(ГОСТы, СНИПы, СанПиН и др.)  
+</a>
+</li> 
+<li><a href="#">Polpred.com </a></li>  
+<li>
+ <a href="http://www.polpred.com" target="_blank">• Интернет-сервисы по отраслям и странам  
+</a>
+</li> 
+
+  </ul>
+
+  <p><br><font size=1>*Нажмите на элемент для вывода дополнительной информации. Еще раз для возврата назад.</font></p>
+
+</body>
+</html>
+
+
+
+ 

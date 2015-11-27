@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://biblioteka.smolgu.ru/</title>
+  <link>http://biblioteka.smolgu.ru/</link>
+
+<item>
+     <link>http://biblioteka.smolgu.ru/</link>
+     <title>СмолГУ | Библиотека | Главная</title>
+     <description>СмолГУ | Библиотека | Главная</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/podpSourse.htm</link>
+     <title>СмолГУ | Библиотека | Подписка</title>
+     <description>СмолГУ | Библиотека | Подписка</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/lblel.html</link>
+     <title>СмолГУ | Библиотека | Ресурсы библиотеки</title>
+     <description>СмолГУ | Библиотека | Ресурсы библиотеки</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/bkSourse.htm</link>
+     <title>СмолГУ | Библиотека | Книгообеспеченность</title>
+     <description>СмолГУ | Библиотека | Книгообеспеченность</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/unknown.html</link>
+     <title>СмолГУ | Библиотека | Страница в разработке</title>
+     <description>СмолГУ | Библиотека | Страница в разработке</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/ctlgSourse.htm</link>
+     <title>СмолГУ | Библиотека | Электронный каталог</title>
+     <description>СмолГУ | Библиотека | Электронный каталог</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/histLblSourse.htm</link>
+     <title>СмолГУ | Библиотека | История библиотеки смолгу</title>
+     <description>СмолГУ | Библиотека | История библиотеки смолгу</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/histSourse.htm</link>
+     <title>СмолГУ | Библиотека | Современное состояние библиотеки СмолГУ</title>
+     <description>СмолГУ | Библиотека | Современное состояние библиотеки СмолГУ</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/missionLib.html</link>
+     <title>СмолГУ | Библиотека | МИССИЯ БИБЛИОТЕКИ СмолГУ</title>
+     <description>СмолГУ | Библиотека | МИССИЯ БИБЛИОТЕКИ СмолГУ</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/instrSourse.html</link>
+     <title>СмолГУ | Библиотека | Правила пользования</title>
+     <description>СмолГУ | Библиотека | Правила пользования</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/priceSourse.html</link>
+     <title>СмолГУ | Библиотека | Платные услуги</title>
+     <description>СмолГУ | Библиотека | Платные услуги</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/contSourse.htm</link>
+     <title>СмолГУ | Библиотека | Контакты</title>
+     <description>СмолГУ | Библиотека | Контакты</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/fotoSourse.html</link>
+     <title>СмолГУ | Библиотека | Фотогалерея</title>
+     <description>СмолГУ | Библиотека | Фотогалерея</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/strSourse.htm</link>
+     <title>СмолГУ | Библиотека | Общая таблица</title>
+     <description>СмолГУ | Библиотека | Общая таблица</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/podrSourse_f.htm</link>
+     <title>СмолГУ | Библиотека | Подразделения [Стр. 1]</title>
+     <description>СмолГУ | Библиотека | Подразделения [Стр. 1]</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/ordBookSourse.htm</link>
+     <title>СмолГУ | Библиотека | Заказ книг и периодических изданий</title>
+     <description>СмолГУ | Библиотека | Заказ книг и периодических изданий</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/scWorkSourse.htm</link>
+     <title>СмолГУ | Библиотека | Правила оформления научных работ</title>
+     <description>СмолГУ | Библиотека | Правила оформления научных работ</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/bookh.html</link>
+     <title>СмолГУ | Библиотека | Книжная палата</title>
+     <description>СмолГУ | Библиотека | Книжная палата</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/descSourse.htm</link>
+     <title>СмолГУ | Библиотека | Примеры библиографического описания документов</title>
+     <description>СмолГУ | Библиотека | Примеры библиографического описания документов</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/teamPrev.html</link>
+     <title>СмолГУ | Библиотека | Тематические обзоры</title>
+     <description>СмолГУ | Библиотека | Тематические обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/nbook.html</link>
+     <title>СмолГУ | Библиотека | Презентация книги</title>
+     <description>СмолГУ | Библиотека | Презентация книги</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newEvents.html</link>
+     <title>СмолГУ | Библиотека | ЗАЯВКИ НА ПРОВЕДЕНИЕ МЕРОПРИЯТИЙ</title>
+     <description>СмолГУ | Библиотека | ЗАЯВКИ НА ПРОВЕДЕНИЕ МЕРОПРИЯТИЙ</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/kh_Smol5.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/teamViev.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/presSourse3.html</link>
+     <title>СмолГУ | Библиотека | Выставки к юбилеям учёных</title>
+     <description>СмолГУ | Библиотека | Выставки к юбилеям учёных</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/presSourse.html</link>
+     <title>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</title>
+     <description>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/memosourse.html</link>
+     <title>СмолГУ | Библиотека | Памятка первокурсникам</title>
+     <description>СмолГУ | Библиотека | Памятка первокурсникам</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/doclbl.htm</link>
+     <title>СмолГУ | Библиотека | Документы</title>
+     <description>СмолГУ | Библиотека | Документы</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/training.html</link>
+     <title>СмолГУ | Библиотека | Библиотекарям</title>
+     <description>СмолГУ | Библиотека | Библиотекарям</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoSourse.htm</link>
+     <title>СмолГУ | Библиотека | ОМО</title>
+     <description>СмолГУ | Библиотека | ОМО</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/pf.html</link>
+     <title>СмолГУ | Библиотека | Главная</title>
+     <description>СмолГУ | Библиотека | Главная</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/dialog.html</link>
+     <title>СмолГУ | Библиотека | Главная</title>
+     <description>СмолГУ | Библиотека | Главная</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/time.html</link>
+     <title>СмолГУ | Библиотека | Режим работы</title>
+     <description>СмолГУ | Библиотека | Режим работы</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newSite.html</link>
+     <title>СмолГУ | Библиотека | Внешние ресурсы</title>
+     <description>СмолГУ | Библиотека | Внешние ресурсы</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/mainPageScr.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/half_magazine2012.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/half_newspaper2012.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/half_newspaper2013.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/half_magazine2013_2.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/half_newspaper20141.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/elctlg.html</link>
+     <title>СмолГУ | Библиотека | Внешние ресурсы</title>
+     <description>СмолГУ | Библиотека | Внешние ресурсы</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/elctlgin.html</link>
+     <title>СмолГУ | Библиотека | Внутренние ресурсы</title>
+     <description>СмолГУ | Библиотека | Внутренние ресурсы</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/bl.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/Ruslan.html</link>
+     <title>СмолГУ | Библиотека | Pуководство пользователя. Поиск в "Руслане"</title>
+     <description>СмолГУ | Библиотека | Pуководство пользователя. Поиск в "Руслане"</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/rul.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/priceSoursed.html</link>
+     <title>СмолГУ | Библиотека | Платные услуги</title>
+     <description>СмолГУ | Библиотека | Платные услуги</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/fotoSourse_2.html</link>
+     <title>СмолГУ | Библиотека | Фотогалерея</title>
+     <description>СмолГУ | Библиотека | Фотогалерея</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/podrSourse_s.htm</link>
+     <title>СмолГУ | Библиотека | Подразделения [Стр. 2]</title>
+     <description>СмолГУ | Библиотека | Подразделения [Стр. 2]</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/podrSourse_t.htm</link>
+     <title>СмолГУ | Библиотека | Подразделения [Стр. 3]</title>
+     <description>СмолГУ | Библиотека | Подразделения [Стр. 3]</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_4kv2013.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_3kv2013.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_2kv2013.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_1kv2013.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_4kv2012.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_3kv2012.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_2kv2012.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/newbook_1kv2012.html</link>
+     <title>СмолГУ | Библиотека | Бюллетень новых поступлений</title>
+     <description>СмолГУ | Библиотека | Бюллетень новых поступлений</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/ordBook.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/scientificWork.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/bookh.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/descriptionEx.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/kh_Smol8.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/kh_Smol7.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/kh_Smol4.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/kh_Smol3.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/kh_Smol2.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/teamViev4.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/teamViev3.html</link>
+     <title>СмолГУ | Библиотека | Информационные обзоры</title>
+     <description>СмолГУ | Библиотека | Информационные обзоры</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/teamViev2.html</link>
+     <title>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</title>
+     <description>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/presSourse_5.html</link>
+     <title>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</title>
+     <description>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/presSourse_2.html</link>
+     <title>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</title>
+     <description>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/presSourse_3.html</link>
+     <title>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</title>
+     <description>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/presSourse_4.html</link>
+     <title>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</title>
+     <description>СмолГУ | Библиотека | Выставки к знаменательным и памятным датам</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_1994.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_day.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/ndoc_kod.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_ex_doc.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_debag.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_vip.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/ndoc_pol.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_fond.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_prav.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_sh.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_nor.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_deb.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/ndoc/nlbl_inf.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gosts.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/1.htm</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omo.htm</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/cont/pfWork.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/news.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/res.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/resin.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/rhelp.html</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.0-99.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/7.0.0-2010.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/7.0.2-2006.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.0.4-2006.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gostR7.0.5-2008.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/7.0.66-2010.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.1-2003.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.9-95.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/7.11-2004.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/7.0.11-2011.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/7.0.12-2011.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost_7.0.13-2011.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.20-2000.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.23-96.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.32-2001.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.36-2006.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.48-2002.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.50-2002.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.59-2003.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.60-2003.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.66-92.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.69-95.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.73-96.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.74-96.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.76-96.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.80-2000.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.82-2001.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.83-2001.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.88-2003.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/gost/gost7.90-2007.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omoMainMenu/rt1.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omoMainMenu/rt2.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omoMainMenu/rt3.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/res_21022014/specVipusk_21022014.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omoMainMenu/rt5.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/pres_s.html</link>
+     <title>СмолГУ | Библиотека | Библиотекарям</title>
+     <description>СмолГУ | Библиотека | Библиотекарям</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omo/r1.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omo/r2.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omo/r3.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omo/r4.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omo/r5.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/omoRse/omo/r6.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/calomoSourse_f.html</link>
+     <title>СмолГУ | Библиотека | Календарь новостей</title>
+     <description>СмолГУ | Библиотека | Календарь новостей</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/pres_s2.html</link>
+     <title>СмолГУ | Библиотека | Библиотекарям</title>
+     <description>СмолГУ | Библиотека | Библиотекарям</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/pres_s1.html</link>
+     <title>СмолГУ | Библиотека | Библиотекарям</title>
+     <description>СмолГУ | Библиотека | Библиотекарям</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/calomoSourse_3.html</link>
+     <title>СмолГУ | Библиотека | Календарь новостей</title>
+     <description>СмолГУ | Библиотека | Календарь новостей</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/calomoSourse_2.html</link>
+     <title>СмолГУ | Библиотека | Календарь новостей</title>
+     <description>СмолГУ | Библиотека | Календарь новостей</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biblioteka.smolgu.ru/calomoSourse_1.html</link>
+     <title>СмолГУ | Библиотека | Календарь новостей</title>
+     <description>СмолГУ | Библиотека | Календарь новостей</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

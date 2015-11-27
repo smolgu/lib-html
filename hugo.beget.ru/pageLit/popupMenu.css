@@ -1,0 +1,43 @@
+/*Всплывающий скриншот*/
+.thumbnail{  
+	position: relative;  
+	z-index: 0;  
+}  
+.thumbnail:hover{  
+	background-color: transparent;  
+	z-index: 50;  
+}  
+.thumbnail span{ /*CSS for enlarged image*/  
+	position: absolute;  
+	background-color: #ececec;  /*фон окна*/
+	padding: 5px;  
+	left: -1000px;  
+	width: 400px;
+	border: 1px solid black;  /*толщина бордюра*/
+	visibility: hidden;  
+	color: #000000;  /*фон текста*/
+	text-decoration: none;  
+	border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;
+}  
+	.thumbnail span img{ /*CSS for enlarged image*/  
+	border-width: 0;  
+	padding: 2px;  
+}  
+.thumbnail:hover span{ /*CSS for enlarged image on hover*/  
+	visibility: visible;  
+	top: 0;  
+	left: 0px; /*position where enlarged image should offset horizontally */  
+}  
+
+/*
+Этот код стиля Вы можете легко  настроить под собственный сайт
+изменив всего пару показателей, например:
+
+background-color: #3d3d3d; -  отвечает за цвет фона окна
+
+color: black; - отвечает за цвет текста
+
+border: 1px solid white; - отвечает за толщину и цвет лини границы окна.
+---------------------*/

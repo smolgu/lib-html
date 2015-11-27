@@ -1,0 +1,66 @@
+TEMPLATES = site.tmpl
+SOURCE = hugo.beget.ru
+OUTPUT = out
+TITLE = Example Site
+URL = http://biblioteka.smolgu.ru/
+AUTHOR = Your Name
+
+novosti/*.html:
+	config
+	paginate 6 news/*.page
+	directorify
+	template page
+
+news/*.page: blog/*.md
+	rename ../news-*
+	ext .html
+	directorify
+	template archive
+	template page
+	relativize
+
+news/1.page: news/*.page
+	rename ../index.html
+	template archive
+	template page
+	relativize
+
+*.html:
+	config
+	directorify
+	template h1
+	template page
+
+pages/*.html:
+	config
+	inner-template
+	directorify
+	template h1
+	template page
+
+index.html: pages/*.html
+	config
+	directorify
+	template page
+
+pages/*/*.html:
+	config
+	inner-template
+	directorify
+	template h1
+	template page
+
+blog.atom: novosti/*.html
+	inner-template
+
+404.html:
+	config
+	template page
+
+index.html: novosti/*.html
+	config
+	inner-template
+	template page
+
+log/*/*/*.txt:
+	config

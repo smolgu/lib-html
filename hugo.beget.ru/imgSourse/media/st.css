@@ -1,0 +1,229 @@
+﻿@charset "utf-8";*{	margin:0;	padding:0;	border:0;}
+#TMain{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1230px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+
+#TMainNews{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1950px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+
+#TMainP{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1200px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+
+#TMainPrev{	background: #f5eacf;	
+		width: 1000px;	
+		height: 3180px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMfoto{	background: #f5eacf;	
+		width: 1000px;	
+		height: 3230px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainnbomo
+{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2900px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+
+#TMainnbomoq
+{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1800px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+
+#TMainnb{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1500px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainnbf{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1300px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainnbb{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1760px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainCc{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2500px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainCcf{	background: #f5eacf;	
+		width: 1000px;	
+		height: 3000px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainC{	background: #f5eacf;	
+		width: 1000px;	
+		height: 254	0px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainPriceD{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1120px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainPrice{	background: #f5eacf;	
+		width: 1000px;	
+		height: 1420px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+
+#TMStr{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2400px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMStrr{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2250px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+
+#TMainStruct{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2600px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainOmo{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2550px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainStrL{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2450px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainStrLn{ background: #f5eacf;	
+		width: 1000px;	
+		height: 2100px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainBook{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2750px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TNBook{	background: #f5eacf;	
+		width: 1000px;	
+		height: 2800px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TMainLbl{	background: #f5eacf;	
+		width: 1000px;	
+		height: 4000px;	
+		position: absolute;
+		left:50%;
+		margin-left: -500px;
+}
+#TTop{	
+
+	background: url("imgSourse/topScr.png");
+	width: 1000px;
+	height: 230px;
+	position: absolute;
+	top:0px;
+	left:0px;
+}
+#TMenu{	
+	background: url("imgSourse/mainScr.png");
+	width: 1000px;
+	height: 80px;
+	position: absolute;
+	top:230px;
+	left:0px;
+}
+#TLeft{	
+	background: url("imgSourse/LMenu.png");
+	width: 210px;
+	height: 500px;
+	float:left;
+	position: absolute;
+	top:310px;
+	left:0px;
+}
+#TRigth{	
+	background-color: #f5eacf; 
+	width: 210px;
+	height: 500px;
+	float:right;
+	position: absolute;
+	top:310px;
+	left:790px;
+}
+#TCent{	
+	background-color: #f5eacf; 
+	width: 580px;
+	height: 800px;
+
+	position: absolute;
+	top:310px;
+	left:210px;
+}
+#TButton{
+	background:url("imgSourse/btnScr.png");
+	float:right;
+	line-height: 63px;
+	height: 63px;
+	width:133;
+}

@@ -1,0 +1,38 @@
+﻿div.menu {
+	width: 200px;
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	color: #fff;
+}
+div.menu div {
+	overflow: hidden;
+}
+div.menu div.collapsed {
+	height: 20px;
+}
+div.menu div span {
+	display: block;
+	padding: 5px 5px;
+	font-weight: bold;
+	color: white;
+	background: url(graphics/open.gif);
+	cursor: default;
+	border-bottom: 1px solid #ddd;
+}
+div.menu div.collapsed span {
+	background-image: url(graphics/close.gif);
+}
+div.menu div a {
+	padding: 5px 15px;
+	background: #eee;
+	display: block;
+	border-bottom: 1px solid #ddd;
+}
+div.menu div a.current {
+	background : #ccc;
+}
+div.menu div a:hover {
+	background : green;
+	color: #fff;
+	text-decoration: none;
+}

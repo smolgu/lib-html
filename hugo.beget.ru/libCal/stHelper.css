@@ -1,0 +1,133 @@
+.dlink {
+color: #0000FF; /* цвет ссылки */
+font-weight: bold; /* указывает, что текст ссылки жирный */
+font-family: Verdana, Arial, Helvetica, sans-serif; /* семейство шрифта ссылки */
+font-size: 16px; /* размер шрифта ссылки */
+}
+#wind {
+position: absolute;
+width: 600px; /* ширина всплывающего окна */
+left: 00%; /* отступ от левого края экрана */
+top: -100px; /* отступ с верху экрана */
+border:solid #A0A050 3px; /* цвет и толщина рамки окна*/
+display: none;
+z-index: 10;
+overflow: hidden;
+background-color:#ffffff; /* цвет фона внутри окна, стоит белый */
+color:#000000; /* цвет текста внутри окна, стоит чёрный */
+text-align:center; /* выравнивает весь текст в окне по центру */
+padding:5px;
+}
+
+.dlink02 {
+color: #0000FF; /* цвет ссылки */
+font-weight: bold; /* указывает, что текст ссылки жирный */
+font-family: Verdana, Arial, Helvetica, sans-serif; /* семейство шрифта ссылки */
+font-size: 16px; /* размер шрифта ссылки */
+}
+
+#wind02 {
+position: absolute;
+width: 600px; /* ширина всплывающего окна */
+left: 00%; /* отступ от левого края экрана */
+top: -100px; /* отступ с верху экрана */
+border:solid #A0A050 3px; /* цвет и толщина рамки окна*/
+display: none;
+z-index: 10;
+overflow: hidden;
+background-color:#ffffff; /* цвет фона внутри окна, стоит белый */
+color:#000000; /* цвет текста внутри окна, стоит чёрный */
+text-align:center; /* выравнивает весь текст в окне по центру */
+padding:5px;
+}
+
+
+.dlink05 {
+color: #0000FF; /* цвет ссылки */
+font-weight: bold; /* указывает, что текст ссылки жирный */
+font-family: Verdana, Arial, Helvetica, sans-serif; /* семейство шрифта ссылки */
+font-size: 16px; /* размер шрифта ссылки */
+}
+
+#wind05 {
+position: absolute;
+width: 600px; /* ширина всплывающего окна */
+left: 00%; /* отступ от левого края экрана */
+top: -100px; /* отступ с верху экрана */
+border:solid #A0A050 3px; /* цвет и толщина рамки окна*/
+display: none;
+z-index: 10;
+overflow: hidden;
+background-color:#ffffff; /* цвет фона внутри окна, стоит белый */
+color:#000000; /* цвет текста внутри окна, стоит чёрный */
+text-align:center; /* выравнивает весь текст в окне по центру */
+padding:5px;
+}
+
+.dlink14 {
+color: #0000FF; /* цвет ссылки */
+font-weight: bold; /* указывает, что текст ссылки жирный */
+font-family: Verdana, Arial, Helvetica, sans-serif; /* семейство шрифта ссылки */
+font-size: 16px; /* размер шрифта ссылки */
+}
+
+#wind14 {
+position: absolute;
+width: 600px; /* ширина всплывающего окна */
+left: 00%; /* отступ от левого края экрана */
+top: -100px; /* отступ с верху экрана */
+border:solid #A0A050 3px; /* цвет и толщина рамки окна*/
+display: none;
+z-index: 10;
+overflow: hidden;
+background-color:#ffffff; /* цвет фона внутри окна, стоит белый */
+color:#000000; /* цвет текста внутри окна, стоит чёрный */
+text-align:center; /* выравнивает весь текст в окне по центру */
+padding:5px;
+}
+
+
+.dlink17 {
+color: #0000FF; /* цвет ссылки */
+font-weight: bold; /* указывает, что текст ссылки жирный */
+font-family: Verdana, Arial, Helvetica, sans-serif; /* семейство шрифта ссылки */
+font-size: 16px; /* размер шрифта ссылки */
+}
+
+#wind17 {
+position: absolute;
+width: 600px; /* ширина всплывающего окна */
+left: 00%; /* отступ от левого края экрана */
+top: -100px; /* отступ с верху экрана */
+border:solid #A0A050 3px; /* цвет и толщина рамки окна*/
+display: none;
+z-index: 10;
+overflow: hidden;
+background-color:#ffffff; /* цвет фона внутри окна, стоит белый */
+color:#000000; /* цвет текста внутри окна, стоит чёрный */
+text-align:center; /* выравнивает весь текст в окне по центру */
+padding:5px;
+}
+
+
+.dlink19 {
+color: #0000FF; /* цвет ссылки */
+font-weight: bold; /* указывает, что текст ссылки жирный */
+font-family: Verdana, Arial, Helvetica, sans-serif; /* семейство шрифта ссылки */
+font-size: 16px; /* размер шрифта ссылки */
+}
+
+#wind19 {
+position: absolute;
+width: 600px; /* ширина всплывающего окна */
+left: 00%; /* отступ от левого края экрана */
+top: -100px; /* отступ с верху экрана */
+border:solid #A0A050 3px; /* цвет и толщина рамки окна*/
+display: none;
+z-index: 10;
+overflow: hidden;
+background-color:#ffffff; /* цвет фона внутри окна, стоит белый */
+color:#000000; /* цвет текста внутри окна, стоит чёрный */
+text-align:center; /* выравнивает весь текст в окне по центру */
+padding:5px;
+}
