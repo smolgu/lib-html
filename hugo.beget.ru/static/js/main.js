@@ -116,14 +116,18 @@ $(document).ready(function() {
 
 var summer_bgs = ["leto.jpg", "leto-2.jpg", "leto-1.jpg"],
 autumn_bgs = ["window/autumn/0.jpg","window/autumn/1.jpg","window/autumn/2.jpg","window/autumn/3.jpg","window/autumn/4.jpg"],
+winter_bgs = ["window/winter/0.jpg","window/winter/1.jpg","window/winter/2.jpg","window/winter/3.jpg","window/winter/4.jpg","window/winter/5.jpg"],
 current = 0,
-bgs, mn
+bgs = summer_bgs, mn
 
 var d = new Date();
 mn = d.getMonth()
 
 if (mn >= 8) {
     bgs = autumn_bgs
+}
+if (mn == 0 || mn == 1 || mn == 11) {
+  bgs = winter_bgs
 }
 
 var el = $(".header-window")

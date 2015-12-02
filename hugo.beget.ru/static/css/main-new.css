@@ -94,7 +94,7 @@ header {
 }
 
 .header-window-inner {
-	background-image: url(../../static/img/win.png);
+	background-image: url(../../static/img/win-closed.png);
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	background-size: 100% 100%;
